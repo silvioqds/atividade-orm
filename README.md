@@ -5,4 +5,5 @@ Silvio Queiroz</br>
 Rene Melo Carneiro</br>
 Vitor Cesar</br>
 Ediller Watzek</br>
-Lucas Gracindo
+Lucas Gracindo</br>
+Fábio Henrique Vernareccia
