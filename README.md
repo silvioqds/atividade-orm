@@ -1,6 +1,6 @@
 # atividade-orm
 
-Integrantes:
+Integrantes:</br>
 Silvio Queiroz</br>
 Rene Melo Carneiro</br>
 Vitor Cesar</br>
